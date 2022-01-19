@@ -31,3 +31,4 @@ const writeReview = review => {
         `<p>${review['comment']}</p>` +
         '</div>';
 }
+
